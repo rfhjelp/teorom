@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.251847c6.css",
-    "main.js": "./static/js/main.06ae6e47.js",
-    "static/media/Vertical_logo.png": "./static/media/Vertical_logo.85be6e372c1c16a461c9.png",
-    "static/media/Horizontal_logo.png": "./static/media/Horizontal_logo.7b6aa308cab8ccae343e.png",
-    "index.html": "./index.html",
-    "main.251847c6.css.map": "./static/css/main.251847c6.css.map",
-    "main.06ae6e47.js.map": "./static/js/main.06ae6e47.js.map"
+    "main.css": "//rfhjelp.github.io/teorom/static/css/main.251847c6.css",
+    "main.js": "//rfhjelp.github.io/teorom/static/js/main.5aed037c.js",
+    "static/media/Vertical_logo.png": "//rfhjelp.github.io/teorom/static/media/Vertical_logo.85be6e372c1c16a461c9.png",
+    "static/media/Horizontal_logo.png": "//rfhjelp.github.io/teorom/static/media/Horizontal_logo.7b6aa308cab8ccae343e.png",
+    "index.html": "//rfhjelp.github.io/teorom/index.html",
+    "main.251847c6.css.map": "//rfhjelp.github.io/teorom/static/css/main.251847c6.css.map",
+    "main.5aed037c.js.map": "//rfhjelp.github.io/teorom/static/js/main.5aed037c.js.map"
   },
   "entrypoints": [
     "static/css/main.251847c6.css",
-    "static/js/main.06ae6e47.js"
+    "static/js/main.5aed037c.js"
   ]
 }
