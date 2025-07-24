@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/teorom/static/css/main.d099fc2f.css",
-    "main.js": "/teorom/static/js/main.59932bfd.js",
+    "main.js": "/teorom/static/js/main.e415b915.js",
     "static/media/Vertical_logo.png": "/teorom/static/media/Vertical_logo.85be6e372c1c16a461c9.png",
     "static/media/Horizontal_logo.png": "/teorom/static/media/Horizontal_logo.7b6aa308cab8ccae343e.png",
     "index.html": "/teorom/index.html",
     "main.d099fc2f.css.map": "/teorom/static/css/main.d099fc2f.css.map",
-    "main.59932bfd.js.map": "/teorom/static/js/main.59932bfd.js.map"
+    "main.e415b915.js.map": "/teorom/static/js/main.e415b915.js.map"
   },
   "entrypoints": [
     "static/css/main.d099fc2f.css",
-    "static/js/main.59932bfd.js"
+    "static/js/main.e415b915.js"
   ]
 }
